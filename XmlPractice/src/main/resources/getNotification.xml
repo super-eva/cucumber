@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<methodResponse>
+	<requestID>706-20170222145359 -94978</requestID>
+	<responseCode>0</responseCode>
+	<notificationList>
+		<notification>
+			<subscriberNumber>0905041275</subscriberNumber>
+			<notifyTime>20170222145257</notifyTime>
+			<notifyType>DataUsage</notifyType>
+			<notifyMessage>親愛的中華客戶，您的上網量已於02月22日14時52分用完，上網速率已調降。您可透過客服APP或emome網站購買上網量恢復原速使用。
+			</notifyMessage>
+			<notifyChannel>SMS</notifyChannel>
+		</notification>
+		<notification>
+			<subscriberNumber>0905041275</subscriberNumber>
+			<notifyTime>20170222144912</notifyTime>
+			<notifyType>DataUsage</notifyType>
+			<notifyMessage>親愛的中華客戶，本期至02月22日14時49分，您的上網量還剩22.0MB。若您需要增加上網量，可透過客服APP或emome網站購買。
+			</notifyMessage>
+			<notifyChannel>SMS</notifyChannel>
+		</notification>
+	</notificationList>
+</methodResponse>

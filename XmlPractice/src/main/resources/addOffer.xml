@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<methodCall>
+	<methodName>AddOffer</methodName>
+	<requestBy>TEST</requestBy>
+	<requestID>20170222145742 -53232</requestID>
+	<requestDateTime>20170222145742 </requestDateTime>
+	<subscriberNumber>0905041275</subscriberNumber>
+	<offerInformation>
+		<offerID>160006</offerID>
+		<offerParameterString>03006,200,100</offerParameterString>
+		<productID>130638</productID>
+		<addonName>5ZyL5YWn5LiK57ay5Yqg5YO56LO8MjAwTUIoMTAw5YWDKQ==
+		</addonName>
+	</offerInformation>
+</methodCall>
